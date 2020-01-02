@@ -1,7 +1,7 @@
 # ---
 # jupyter:
 #   jupytext:
-#     formats: ipynb,py
+#     formats: ipynb,py:light
 #     text_representation:
 #       extension: .py
 #       format_name: light
@@ -23,3 +23,7 @@ export PATH=/home/ubuntu:$PATH
 # is installed
 
 nextflow -v
+
+echo 'hi'
+
+
