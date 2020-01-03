@@ -15,7 +15,7 @@
 
 cd ~/jupyter
 
-ls
+ls -la
 
 export PATH=/home/ubuntu:$PATH
 
@@ -25,5 +25,7 @@ export PATH=/home/ubuntu:$PATH
 nextflow -v
 
 echo 'hi'
+
+
 
 
