@@ -13,14 +13,16 @@
 #     name: bash
 # ---
 
+# + jupyter={"source_hidden": true}
 cd ~/jupyter
+# -
 
 ls -la
 
 export PATH=/home/ubuntu:$PATH
 
 # then check to see that *nextflow* 
-# is installed
+# is installed correctly
 
 nextflow -v
 
